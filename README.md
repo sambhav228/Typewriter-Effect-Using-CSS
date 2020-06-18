@@ -1,3 +1,3 @@
 # Typewriter Effect Using CSS
 
-A Simple typewriter
+A Simple typewriter effect 
